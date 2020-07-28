@@ -1,0 +1,177 @@
+{
+  "categorias": [
+    {
+      "titulo": "Continue Assistindo",
+      "link": "-",
+      "cor": "#efbd09",
+      "link_extra": {
+        "text": " ",
+        "url": "-"
+      },
+      "videos": [
+        {
+          "titulo": "Uma tempestade de ideias fundamentais para viver tempos difíceis.",
+          "url": "https://www.youtube.com/watch?v=6JEdZQUmdbc"
+        },
+        {
+          "titulo": "Amor na Pandemia",
+          "url": "https://youtu.be/PWipa9d_7uQ"
+        },
+        {
+          "titulo": "Programação e Cognição",
+          "url": "https://www.youtube.com/watch?v=w3NcXc4NiAs"
+        },
+        {
+          "titulo": "Não somos apenas cicatrizes",
+          "url": "https://youtu.be/C0fNTiBKDBw"
+        },
+        {
+          "titulo": "Yuval Noah Harari: Por que os humanos lideram o mundo?",
+          "url": "https://youtu.be/D5vkAItWkgA"
+        }       
+      ]
+    },
+    {
+      "titulo": "Recomendados",
+      "cor": "#efbd09",
+      "link_extra": {
+        "text": "Para você refletir",
+        "url": "-"
+      },
+      "videos": [
+        {
+          "titulo": "Você sabe com quem está falando?” É a cara do",
+          "url": "https://youtu.be/C0fNTiBKDBw"
+        },
+        {
+          "titulo": "A realidade é subjetiva",
+          "url": "https://youtu.be/kdHmy0_Rkcw"
+        },
+        {
+          "titulo": "Criptografia",
+          "url": "https://youtu.be/_Eeg1LxVWa8"
+        },
+        {
+          "titulo": "Você sabe com quem está falando?” É a cara do judiciário Brasileiro",
+          "url": "https://youtu.be/kMHUDVA9bcI"
+        }, 
+        {
+          "titulo": "A desigualdade no Brasil: um resgate histórico",
+          "url": "https://youtu.be/iWMp3iOTqV0"
+        }
+      ]
+    },
+    {
+      "titulo": "Assista Novamente",
+      "cor": "#efbd09",
+      "link_extra": {
+        "text": "Vídeos que não merecem ser vistos uma única vez ",
+        "url": "-"
+      },
+      "videos": [
+        {
+          "titulo": "Consciência de Classe",
+          "url": "https://youtu.be/lmT7H09jR18"
+        },
+        {
+          "titulo": "Algoritmos que salvam vidas",
+          "url": "https://youtu.be/m0ibiy-NX9c"
+        },
+        {
+          "titulo": "Consciência de Classe",
+          "url": "https://youtu.be/lmT7H09jR18"
+        },
+        {
+          "titulo": "De onde vieram os índios?",
+          "url": "https://youtu.be/-MB2i3_9WWQ"
+        },
+        {
+          "titulo": "Algoritmos: você está no controle?",
+          "url": "https://youtu.be/wBz-xWPo1Fc"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
