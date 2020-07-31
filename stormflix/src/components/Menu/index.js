@@ -6,14 +6,14 @@ import { Link } from 'react-router-dom';
 //import ButtonLink from './components/ButtonLink';
 
 
-function Menu(){
+function Menu() {
     return (
         <nav className="Menu">
             <Link to="/">
-                <img className="Logo" src={Logo} alt="Stormflix logo"/>
+                <img className="Logo" src={Logo} alt="Stormflix logo" />
             </Link>
-            <Button as={ Link } className="ButtonLink" to="/cadastro/video">
-                Junte-se a nós
+            <Button as={Link} className="ButtonLink" to="/cadastro/video">
+                Entrar
             </Button>
         </nav>
     );

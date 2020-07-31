@@ -1,3 +1,10 @@
 {
-    "editor.tabCompletion": "on"
+    "editor.tabCompletion": "on",
+    "eslint.debug": true,
+    "eslint.alwaysShowStatus": true,
+    "editor.formatOnSave": true,
+    "eslint.trace.server": true,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.validate": []
 }
